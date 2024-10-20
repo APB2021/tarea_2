@@ -1,0 +1,6 @@
+TAREA 2 - OCTUBRE 2024
+
+Ejercicio 2
+Crea un programa en Java que guarde en un fichero de texto lo que el usuario escriba por la 
+línea de comandos (línea a línea). Para finalizar, el usuario deberá escribir una línea con la 
+palabra “exit” (no debe aparecer en el fichero de texto).

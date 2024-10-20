@@ -1,0 +1,5 @@
+TAREA 2 - EJERCICIO 1a - OCTUBRE 2024
+
+Ejercicio 1
+a) Crea un fichero de texto con cualquier editor de textos y después realiza un programa en 
+Java que visualice su contenido.
